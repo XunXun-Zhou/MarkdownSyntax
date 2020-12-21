@@ -6,27 +6,27 @@
       {
         "id": "2cb8d1b342768a13",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MarkdownSyntax.md",
+            "file": "202012211940.md",
             "mode": "source"
           }
         },
-        "group": "afaccf8b58984927"
+        "group": "cce7365b86220511"
       },
       {
         "id": "13a00a25e8cb3861",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MarkdownSyntax.md",
-            "mode": "preview"
+            "file": "202012211940.md",
+            "mode": "source"
           }
         },
-        "group": "afaccf8b58984927"
+        "group": "cce7365b86220511"
       }
     ],
     "direction": "vertical"
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MarkdownSyntax.md",
+                "file": "202012211940.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MarkdownSyntax.md"
+                "file": "202012211940.md"
               }
             }
           },
@@ -119,20 +119,24 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "MarkdownSyntax.md",
+    "202012211940.md",
     "Test.md",
+    "MarkdownSyntax.md",
+    "202012211916.md",
+    "2020-12-21.md",
     "Untitled.md",
     "Attachments/1608190506435_周迅.jpg",
     "1608190506435_周迅 1.jpg.md",
     "Attachments/1608190506435_周迅 1.jpg",
-    "Attachments/大东金沙江大桥抗震性能初步研究报告.jpg",
-    "大东金沙江大桥抗震性能初步研究报告.jpg"
+    "Attachments/大东金沙江大桥抗震性能初步研究报告.jpg"
   ]
 }

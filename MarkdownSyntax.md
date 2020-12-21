@@ -28,6 +28,12 @@ _italic_
 __boldface__
 **_combined italic and bold charater_**
 ~~strikethrough~~
+==emphasis==
+
+## $\LaTeX$
+$$
+f(x) = \int_{-\infty}^\infty  \hat f(x)\xi\,e^{2 \pi i \xi x}  \,\mathrm{d}\xi
+$$
 
 ## Code Insertions
 This is a `inline code`.
@@ -61,7 +67,7 @@ You can even rename the interlinks.
 
 Without an exclamation mark, an interlink will be created.
 [[Test]]
-With an exclamation mark before the square brackets, an interlink as well as a quotation will be created.
+With an exclamation mark before the square brackets, an interlink as well as a block quotation will be created.
 ![[Test]]
 You can also quote the subparts.
 ![[Test#Subtitle]]
