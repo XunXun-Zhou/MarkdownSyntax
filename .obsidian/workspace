@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "fdd43dddd1afacf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cb8d1b342768a13",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MarkdownSyntax.md",
+            "mode": "source"
+          }
+        },
+        "group": "afaccf8b58984927"
+      },
+      {
+        "id": "13a00a25e8cb3861",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MarkdownSyntax.md",
+            "mode": "preview"
+          }
+        },
+        "group": "afaccf8b58984927"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "730c81e508e63760",
+    "type": "split",
+    "children": [
+      {
+        "id": "44f1bd9253ce6856",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1e59b4096d22dbb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ee0ae547283f0a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f4e4afc11febf06",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.00000190734863
+  },
+  "right": {
+    "id": "61ebd99f4333001c",
+    "type": "split",
+    "children": [
+      {
+        "id": "189992cfcabb0664",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99ea552364f5dd5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MarkdownSyntax.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d695f1a6a0b6c0ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MarkdownSyntax.md"
+              }
+            }
+          },
+          {
+            "id": "6f78dc36155c303b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "MarkdownSyntax.md",
+    "Test.md",
+    "Untitled.md",
+    "Attachments/1608190506435_周迅.jpg",
+    "1608190506435_周迅 1.jpg.md",
+    "Attachments/1608190506435_周迅 1.jpg",
+    "Attachments/大东金沙江大桥抗震性能初步研究报告.jpg",
+    "大东金沙江大桥抗震性能初步研究报告.jpg"
+  ]
+}
